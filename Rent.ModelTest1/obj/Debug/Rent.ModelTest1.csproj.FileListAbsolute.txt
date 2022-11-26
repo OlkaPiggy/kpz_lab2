@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\bin\Debug\Rent.ModelTest1.dll
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\bin\Debug\Rent.ModelTest1.pdb
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\bin\Debug\Rent.Model.exe
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\bin\Debug\Rent.Model.pdb
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\bin\Debug\Rent.Model.exe.config
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\obj\Debug\Rent.ModelTest1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\obj\Debug\Rent.ModelTest1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\obj\Debug\Rent.ModelTest1.csproj.CopyComplete
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\obj\Debug\Rent.ModelTest1.dll
+C:\Users\User\source\repos\Organizer2\Rent.ModelTest1\obj\Debug\Rent.ModelTest1.pdb

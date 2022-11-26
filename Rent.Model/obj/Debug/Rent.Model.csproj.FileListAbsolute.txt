@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Organizer2\Rent.Model\bin\Debug\Rent.Model.exe.config
+C:\Users\User\source\repos\Organizer2\Rent.Model\bin\Debug\Rent.Model.exe
+C:\Users\User\source\repos\Organizer2\Rent.Model\bin\Debug\Rent.Model.pdb
+C:\Users\User\source\repos\Organizer2\Rent.Model\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Organizer2\Rent.Model\obj\Debug\Rent.Model_MarkupCompile.cache
+C:\Users\User\source\repos\Organizer2\Rent.Model\obj\Debug\Rent.Model.Properties.Resources.resources
+C:\Users\User\source\repos\Organizer2\Rent.Model\obj\Debug\Rent.Model.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Organizer2\Rent.Model\obj\Debug\Rent.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Organizer2\Rent.Model\obj\Debug\Rent.Model.exe
+C:\Users\User\source\repos\Organizer2\Rent.Model\obj\Debug\Rent.Model.pdb
